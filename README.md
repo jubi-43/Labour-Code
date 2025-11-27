@@ -1,3 +1,7 @@
+Used Power Bi to represent the summary of new Labour Laws
+29 Laws subsumed to 4 labour codes
+Used Stacked bar chart
+
 # Labour-Code
 
 1️⃣ Code on Wages, 2019 – Consolidates laws on minimum wages, payment of wages, bonus, and equal remuneration.
