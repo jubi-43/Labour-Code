@@ -21,15 +21,16 @@ OLD LAWS (29)                           NEW CODES (4)
 ---------------------------------------------------------------
 5. Trade Unions Act (1926)         →   Industrial Relations Code, 2020
 6. Standing Orders Act (1946)      →  
-7. Industrial Disputes Act (1947)  →  
+7. Industrial Disputes Act (1947)  →
 ---------------------------------------------------------------
-8–20. Factories, Mines, BOCW,      →   OSH Code, 2020
-      Contract Labour, Motor 
-      Transport Workers, etc.      
+ 8. Factories, Mines, BOCW,      →   OSH Code, 2020
+ Contract Labour, Motor 
+ Transport Workers, etc   
 ---------------------------------------------------------------
 21–29. ESI, EPF, Gratuity, MB Act, →   Social Security Code, 2020
        Workers’ Compensation,
        Unorganised Workers Act
+---------------------------------------------------------------       
 
 
 ![LABOUR CODES AND ACT SUBSUMED](https://github.com/user-attachments/assets/b6715355-1973-45c5-a014-eed4478407a5)
