@@ -14,16 +14,16 @@ Used Stacked bar chart
 
 OLD LAWS (29)                           NEW CODES (4)
 ---------------------------------------------------------------
-1. Payment of Wages Act (1936)     →   Code on Wages, 2019
+**1. Payment of Wages Act (1936)     →   Code on Wages, 2019
 2. Minimum Wages Act (1948)        →  
 3. Payment of Bonus Act (1965)     →  
-4. Equal Remuneration Act (1976)   →  
+4. Equal Remuneration Act (1976)   →  **
 ---------------------------------------------------------------
-5. Trade Unions Act (1926)         →   Industrial Relations Code, 2020
+**5. Trade Unions Act (1926)         →   Industrial Relations Code, 2020
 6. Standing Orders Act (1946)      →  
 7. Industrial Disputes Act (1947)  →
 ---------------------------------------------------------------
- 8. Factories, Mines, BOCW,      →   OSH Code, 2020
+** 8. Factories, Mines, BOCW,      →   OSH Code, 2020
  Contract Labour, Motor 
  Transport Workers, etc   
 ---------------------------------------------------------------
