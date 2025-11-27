@@ -12,5 +12,25 @@ Used Stacked bar chart
 
 4️⃣ Industrial Relations Code, 2020 – Governs trade unions, layoffs, retrenchments, and dispute resolution mechanisms.
 
+OLD LAWS (29)                           NEW CODES (4)
+---------------------------------------------------------------
+1. Payment of Wages Act (1936)     →   Code on Wages, 2019
+2. Minimum Wages Act (1948)        →  
+3. Payment of Bonus Act (1965)     →  
+4. Equal Remuneration Act (1976)   →  
+---------------------------------------------------------------
+5. Trade Unions Act (1926)         →   Industrial Relations Code, 2020
+6. Standing Orders Act (1946)      →  
+7. Industrial Disputes Act (1947)  →  
+---------------------------------------------------------------
+8–20. Factories, Mines, BOCW,      →   OSH Code, 2020
+      Contract Labour, Motor 
+      Transport Workers, etc.      
+---------------------------------------------------------------
+21–29. ESI, EPF, Gratuity, MB Act, →   Social Security Code, 2020
+       Workers’ Compensation,
+       Unorganised Workers Act
+
+
 ![LABOUR CODES AND ACT SUBSUMED](https://github.com/user-attachments/assets/b6715355-1973-45c5-a014-eed4478407a5)
 
