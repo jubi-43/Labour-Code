@@ -11,3 +11,6 @@ Used Stacked bar chart
 3️⃣ Occupational Safety, Health & Working Conditions (OSH) Code, 2020 – Regulates safety, health, and working conditions for employees across sectors.
 
 4️⃣ Industrial Relations Code, 2020 – Governs trade unions, layoffs, retrenchments, and dispute resolution mechanisms.
+
+![LABOUR CODES AND ACT SUBSUMED](https://github.com/user-attachments/assets/b6715355-1973-45c5-a014-eed4478407a5)
+
