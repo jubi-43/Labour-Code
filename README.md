@@ -1,5 +1,7 @@
 Used Power Bi to represent the summary of new Labour Laws
+
 29 Laws subsumed to 4 labour codes
+
 Used Stacked bar chart
 
 # Labour-Code
